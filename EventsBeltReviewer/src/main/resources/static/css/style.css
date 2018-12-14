@@ -1,0 +1,14 @@
+.box{
+  border: 2px solid purple;
+  height: 300px;
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 50px;
+}
+.main{
+  margin-left: 600px;
+}
+h1{
+  margin-left: 50px;
+}

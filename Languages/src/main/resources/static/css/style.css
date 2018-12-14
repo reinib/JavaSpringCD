@@ -1,0 +1,23 @@
+.form{
+    width: 600px;
+    height: 400px;
+   /*  border: 2px solid purple; */
+    text-align: center;
+   /*  line-height: 300px; */
+    margin-left: 600px;
+    margin-top: 75px;
+    vertical-align: top;
+}
+/* .form{
+	margin-left: 100px;
+} */
+h3{
+    width: 600px;
+    height: 400px;
+   	border: 2px solid purple;
+    text-align: center;
+   /*  line-height: 300px; */
+    margin-left: 600px;
+    margin-top: 75px;
+    vertical-align: top;
+}

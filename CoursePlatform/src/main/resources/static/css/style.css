@@ -1,0 +1,22 @@
+.box{
+  height: 300px;
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 50px;
+}
+.main{
+  margin-left: 600px;
+}
+.errors{
+  margin-left: 50px;
+  color: red;
+}
+.new{
+  margin-left: 50px;
+  width: 300px;
+  margin-top: 50px;
+}
+h1{
+  margin-left: 50px;
+}

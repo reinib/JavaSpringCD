@@ -1,0 +1,9 @@
+.main{
+    width: 850px;
+    height: 400px;
+    border: 2px solid purple;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 75px;
+    vertical-align: top;
+}
